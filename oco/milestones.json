@@ -1,0 +1,5 @@
+{"id":"aa-designed","subject":"agent-access","ord":1,"title":"Researched and planned","horizon":"working","readiness":1,"criteria":"backlog:aa-research","why":"The look around before building."}
+{"id":"aa-driver","subject":"agent-access","ord":2,"title":"An agent can drive a terminal program","horizon":"working","readiness":3,"criteria":"backlog:aa-driver backlog:aa-two-doors","why":"The picker checked by a machine, not by a person."}
+{"id":"aa-every-tool","subject":"agent-access","ord":5,"title":"Every tool has its doors and its scenes","horizon":"ongoing","readiness":9,"criteria":"backlog:aa-gui","why":"Nothing in the commons needs a person at the keyboard to be used or checked."}
+{"id":"aa-mcp","subject":"agent-access","ord":4,"title":"Offered to any agent","horizon":"perfection","readiness":7,"criteria":"backlog:aa-mcp","why":"Through the open standard."}
+{"id":"aa-scenes","subject":"agent-access","ord":3,"title":"Scenes run for any project","horizon":"working","readiness":5,"criteria":"backlog:aa-scenes","why":"Interactive tools proven on every change."}

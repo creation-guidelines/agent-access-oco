@@ -1,0 +1,6 @@
+{"id":"aa-driver","title":"The terminal driver","status":"open","note":"Start, keys, wait for text, screen as text - a Rust command; first proven on ocoeco's picker, whose real-terminal check could not be made.","opened":"2026-11-11"}
+{"id":"aa-gui","title":"Graphical programs","status":"open","note":"Through AT-SPI, or each program's own connector.","opened":"2026-11-11"}
+{"id":"aa-mcp","title":"Offered over MCP","status":"open","note":"The driver, and each tool's structured door, as MCP servers.","opened":"2026-11-11"}
+{"id":"aa-research","title":"The look around, and the plan","status":"done","note":"MCP, terminal drivers, scene testing, the Rust pieces; the idea, the path and the decisions.","opened":"2026-11-11"}
+{"id":"aa-scenes","title":"Scenes in CI, called not copied","status":"open","note":"A project declares its scenes; the conveyor runs them on every change and keeps their screens as evidence.","opened":"2026-11-11"}
+{"id":"aa-two-doors","title":"Two doors for our own tools","status":"open","note":"Every interactive tool in the commons keeps a structured door; the first are ocoeco manual and devlab.","opened":"2026-11-11"}

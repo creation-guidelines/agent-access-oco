@@ -1,0 +1,2 @@
+{"id":"door","term":"door","means":"One way into a tool: the interactive door for people, the structured door for agents and scripts.","not":"A permission.","see":"scene"}
+{"id":"scene","term":"scene","means":"An interaction written down - keys pressed, screens expected - run on every change, its screens kept as evidence.","not":"A recording only: a scene also checks.","see":"door"}

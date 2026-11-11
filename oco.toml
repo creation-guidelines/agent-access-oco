@@ -1,0 +1,23 @@
+# This repository's mark: how it fits the Open Commons Observatory's picture.
+schema = 1
+
+[project]
+id = "creation-guidelines/agent-access-oco"
+name = "Agent access: every tool usable by agents"
+title = "Agent access"
+kind = "conveyor"
+parent = "open-commons-observatory"
+
+[exports]
+idea = "oco/idea.json"
+research = "oco/research.json"
+sources = "oco/sources.json"
+decisions = "oco/decisions.json"
+concepts = "oco/concepts.json"
+backlog = "oco/backlog.json"
+milestones = "oco/milestones.json"
+workings = "oco/workings.json"
+session_log = "oco/session_log.json"
+vocabulary = "oco/vocabulary.json"
+manual_work = "oco/manual_work.json"
+manual_events = "oco/manual_events.json"
