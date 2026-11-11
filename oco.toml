@@ -9,6 +9,7 @@ kind = "conveyor"
 parent = "open-commons-observatory"
 
 [exports]
+glimpses = "oco/glimpses.json"
 idea = "oco/idea.json"
 research = "oco/research.json"
 sources = "oco/sources.json"
