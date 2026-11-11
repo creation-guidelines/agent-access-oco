@@ -4,3 +4,4 @@
 {"id":"aa-research","title":"The look around, and the plan","status":"done","note":"MCP, terminal drivers, scene testing, the Rust pieces; the idea, the path and the decisions.","opened":"2026-11-11"}
 {"id":"aa-scenes","title":"Scenes in CI, called not copied","status":"open","note":"A project declares its scenes; the conveyor runs them on every change and keeps their screens as evidence.","opened":"2026-11-11"}
 {"id":"aa-two-doors","title":"Two doors for our own tools","status":"open","note":"Every interactive tool in the commons keeps a structured door; the first are ocoeco manual and devlab.","opened":"2026-11-11"}
+{"id":"aa-web","title":"Web pages, too","status":"open","note":"Pages built by agents checked through a browser driven over MCP, by their accessibility tree: the observatory's own pages first, with scenes like the terminal's.","opened":"2026-11-11"}
